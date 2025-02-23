@@ -40,13 +40,13 @@ No deadlock detected.
 
 
 
-##Applications
+## Applications:
 
 Operating systems for detecting deadlocks in resource management.
 Distributed systems to ensure smooth resource allocation.
 Educational purposes for understanding graph traversal and system-level deadlock detection.
 
-##Limitations
+## Limitations:
 
 The program assumes correct input format.
 Limited to single-instance resources.
